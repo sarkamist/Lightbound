@@ -1,22 +1,22 @@
-## Game Jam
+# Game Jam
 
-# Title: Lightbound
+## Title: Lightbound
 
-# Themes:
+## Themes:
 
  - Dark/Light
  - Running out of Space
  - Running out of Time
   
-# Summary:
+## Summary:
 
-You have to illuminate the path of a little demon while that is making its way into a dark forest. It will collect gold bags until it reaches the final treasure. At the same time, your lightbeam decreases and you will have to look for potions that will allow you to recover brightness to your beam of light while trying to keep up the little demon alive.
+You'll have to illuminate the path of a little demon while that is making its way into a dark forest. It will collect gold bags until it reaches the final treasure. At the same time, your lightbeam decreases and you will have to look for potions that will allow you to recover brightness to your beam of light while trying to keep up the little demon alive.
 
 Your lightbeam also attracts nearby moths that will try to absorb part of the brightness.
 
 Will you manage to help the little devil reach his goal? Good luck!
 
-# How it works:
+## How it works:
 
 - Start screen to explain the operation of the game. Clicking starts the game.
 - Dark screen where there is a point of light that follows the mouse and is reduced as time goes by.
